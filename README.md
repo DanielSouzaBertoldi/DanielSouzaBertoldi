@@ -26,31 +26,36 @@ I'm Daniel, a 23 years old brazilian developer. There are three things I love th
 
 He/Him
 
-## 🔨 I'm currently workin on...
+<details>
+  <summary>Want to know a little more? Click here!</summary>
 
-Improving my Kotlin skills with the [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on [Udemy](https://www.udemy.com/).
+  ## 🔨 I'm currently workin on...
 
-I also have a Python project on the side involving the Spotify API and Jinja.
+  Improving my Kotlin skills with the [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on [Udemy](https://www.udemy.com/).
 
-## 📚 I'm currently learning...
+  I also have a Python project on the side involving the Spotify API and Jinja.
 
-Kotlin, MVVM architecture, dependency injection and unit tests in Android.
+  ## 📚 I'm currently learning...
+
+  Kotlin, MVVM architecture, dependency injection and unit tests in Android.
 
 
-## 💬 Ask me about:
+  ## 💬 Ask me about:
 
-- Android Development
-- Web Development
-- Python
-- Favorite bands
-- Places I've been to
-- Favorite foods
+  - Android Development
+  - Web Development
+  - Python
+  - Favorite bands
+  - Places I've been to
+  - Favorite foods
 
-## <img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/b837bc4a8637d3b5c6a45571d1e048cd8bc5edd1/images/github.svg" width="30px" /> My GitHub stats
+  ## <img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/b837bc4a8637d3b5c6a45571d1e048cd8bc5edd1/images/github.svg" width="30px" /> My GitHub stats
 
-[![DanielSouzaBertoldi's github stats](https://github-readme-stats.vercel.app/api?username=DanielSouzaBertoldi&count_private=true&show_icons=true&theme=dracula)](https://github.com/DanielSouzaBertoldi/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouzaBertoldi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![DanielSouzaBertoldi's github stats](https://github-readme-stats.vercel.app/api?username=DanielSouzaBertoldi&count_private=true&show_icons=true&theme=dracula)](https://github.com/DanielSouzaBertoldi/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSouzaBertoldi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## What Am I Listening To
+  ## What Am I Listening To
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danielsoulb&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=danielsoulb&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=danielsoulb&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=danielsoulb&redirect=true)
+
+</details>
