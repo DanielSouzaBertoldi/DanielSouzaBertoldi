@@ -29,6 +29,9 @@ Kotlin, MVVM architecture, dependency injection and unit tests in Android.
 
 ## My recent activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4089](https://github.com/timburgan/timburgan/issues/4089) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. 💪 Opened PR [#1](https://github.com/VPaiva97/siteharasrapaela/pull/1) in [VPaiva97/siteharasrapaela](https://github.com/VPaiva97/siteharasrapaela)
+3. 🎉 Merged PR [#1](https://github.com/DanielSouzaBertoldi/graphql-android/pull/1) in [DanielSouzaBertoldi/graphql-android](https://github.com/DanielSouzaBertoldi/graphql-android)
 <!--END_SECTION:activity-->
 
 <!--
