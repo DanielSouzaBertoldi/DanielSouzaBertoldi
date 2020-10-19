@@ -31,9 +31,9 @@ He/Him
 
   ## 🔨 I'm currently workin on...
 
-  Improving my Kotlin skills with the [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on [Udemy](https://www.udemy.com/).
+  Improving my Kotlin and Android Development skills with [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on [Udemy](https://www.udemy.com/).
 
-  I also have a Python project on the side involving the Spotify API and Jinja.
+  I also have a Python project on the side involving the Spotify API and Jinja 2.0.
 
   ## 📚 I'm currently learning...
 
