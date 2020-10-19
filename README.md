@@ -27,7 +27,7 @@ I'm Daniel, a 23 years old brazilian developer. There are three things I love th
 He/Him
 
 <details>
-  <summary>Want to know a little more? Click here!</summary>
+  <summary><b>Want to know a little more? Click here!</b></summary>
 
   ## 🔨 I'm currently workin on...
 
