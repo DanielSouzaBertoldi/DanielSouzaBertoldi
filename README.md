@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif" width="150px" align="right" />
 
-I'm Daniel, a 24 years old brazilian developer. There are three things I love the most: <b>food</b>, <b>coding</b> and <b>music</b>. Here on <i>GitHub</i> you can see all projects I made in my spare time, and you can probably catch me on a restaurant somewhere when I'm not coding. Besides that, you can also find me in these platforms:
+I'm Daniel, a 25 years old brazilian developer. There are three things I love the most: <b>food</b>, <b>coding</b> and <b>music</b>. Here on <i>GitHub</i> you can see all projects I made in my spare time, and you can probably catch me on a restaurant somewhere when I'm not coding. Besides that, you can also find me in these platforms:
 
 
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/9948449/daniel-bertoldi?tab=profile)
@@ -31,20 +31,17 @@ He/Him
 
   ## 🔨 I'm currently working on...
 
-  Improving my Kotlin and Android Development skills with [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) on [Udemy](https://www.udemy.com/).
-
-  I also have a Python project on the side involving the Spotify API and Jinja.
+  Improving my Kotlin and Android Development skills. I have a big interest in [Compose](https://developer.android.com/jetpack/compose) and I'm currently trying to learn a bit more about it and implementing it in my projects.
+  
 
   ## 📚 I'm currently learning...
 
-  Kotlin, MVVM architecture, dependency injection and unit tests in Android.
-
+  Compose, dependency injection with Dagger 2 and unit tests using MockK in Android.
 
   ## 💬 Ask me about:
 
   - Android Development
-  - Web Development
-  - Python
+  - Memes
   - Favorite bands
   - Places I've been to
   - Favorite foods
