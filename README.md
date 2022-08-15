@@ -31,12 +31,12 @@ He/Him
 
   ## 🔨 I'm currently working on...
 
-  Improving my Kotlin and Android Development skills. I have a big interest in [Compose](https://developer.android.com/jetpack/compose) and I'm currently trying to learn a bit more about it and implementing it in my projects.
+  Creating a bunch of different small personal projects. I have a big interest in [Compose](https://developer.android.com/jetpack/compose) and I'm currently trying to learn a bit more about it and implementing it in my projects.
   
 
   ## 📚 I'm currently learning...
 
-  Compose, dependency injection with Dagger 2 and unit tests using MockK in Android.
+  Jetpack Compose, Dependency Injection with Koin/Dagger 2/Hilt/Anvil, mastering Coroutines & Flow/LiveData and Jetpack Navigation.
 
   ## 💬 Ask me about:
 
