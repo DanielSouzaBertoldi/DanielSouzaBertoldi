@@ -16,9 +16,6 @@ I'm Daniel, a 25 years old brazilian developer. There are three things I love th
   <tr>
     <td align="center" valign="center"><img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/main/images/android.png" /></td>
     <td align="center" valign="center"><img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/main/images/Kotlin.png" /></td>
-    <td align="center" valign="center"><img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/main/images/java.png" /></td>
-    <td align="center" valign="center"><img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/main/images/php.png" /></td>
-    <td align="center" valign="center"><img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/main/images/python.png" /></td>
   </tr>
 </table>
 
