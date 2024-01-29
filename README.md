@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ehIc2Rb3HRrb1YiQBr/giphy.gif" width="150px" align="right" />
 
-I'm Daniel, a 25 years old brazilian developer. There are three things I love the most: <b>food</b>, <b>coding</b> and <b>music</b>. Here on <i>GitHub</i> you can see all projects I made in my spare time, and you can probably catch me on a restaurant somewhere when I'm not coding. Besides that, you can also find me in these platforms:
+I'm Daniel, a 27 years old brazilian developer. There are three things I love the most: <b>food</b>, <b>coding</b> and <b>music</b>. Here on <i>GitHub</i> you can see all projects I made in my spare time, and you can probably catch me on a restaurant somewhere when I'm not coding. Besides that, you can also find me in these platforms:
 
 
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/9948449/daniel-bertoldi?tab=profile)
@@ -33,7 +33,7 @@ He/Him
 
   ## 📚 I'm currently learning...
 
-  Jetpack Compose, Dependency Injection with Koin/Dagger 2/Hilt/Anvil, mastering Coroutines & Flow/LiveData and Jetpack Navigation.
+  Jetpack Compose, Dependency Injection with Dagger 2 and Hilt/Anvil, mastering Coroutines & Flow/LiveData and Jetpack Navigation.
 
   ## 💬 Ask me about:
 
