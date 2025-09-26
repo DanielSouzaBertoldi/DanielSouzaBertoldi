@@ -4,10 +4,6 @@
 
 I'm Daniel, a 29 years old brazilian developer. There are three things I love the most: <b>food</b>, <b>coding</b> and <b>music</b>. Here on <i>GitHub</i> you can see all projects I made in my spare time, and you can probably catch me on a restaurant somewhere when I'm not coding. Besides that, you can also find me in these platforms:
 
-
-[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" />](https://stackoverflow.com/users/9948449/daniel-bertoldi?tab=profile)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45px" />](https://leetcode.com/danielsoul/)
-[<img src="https://raw.githubusercontent.com/DanielSouzaBertoldi/DanielSouzaBertoldi/7f5f459c576dde18d3df2309c384c2c9d16e1308/images/codewars.svg" width="45px" />](https://www.codewars.com/users/DanielSouzaBertoldi)
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/danielsouzabertoldi/)
 
 ## 👨‍💻 I Love to Code With...
@@ -28,12 +24,11 @@ He/Him
 
   ## 🔨 I'm currently working on...
 
-  Creating a bunch of different small personal projects. I have a big interest in [Compose](https://developer.android.com/jetpack/compose) and I'm currently trying to learn a bit more about it and implementing it in my projects.
-  
+  A Telegram Bot using Ktor and other Kotlin libraries + a personal website using Svelt (being carried by AI because I left the JavaScript world a LOOOONG time ago!) + minor Android apps to test some new cool stuff!
 
   ## 📚 I'm currently learning...
 
-  Jetpack Compose, Dependency Injection with Dagger 2 and Hilt/Anvil, mastering Coroutines & Flow/LiveData and Jetpack Navigation.
+  KMP in general!
 
   ## 💬 Ask me about:
 
